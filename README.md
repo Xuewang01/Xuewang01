@@ -1,4 +1,4 @@
-I'm Xue Wang, working on unsupervised reinforcement learning and whole-body control for humanoid robots.
+Hi, I'm Xue Wang. I study unsupervised reinforcement learning and whole-body control for humanoid robots.
 
 ## Projects
 
