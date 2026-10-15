@@ -1,3 +1,5 @@
+I'm Xue Wang, working on unsupervised reinforcement learning and whole-body control for humanoid robots.
+
 ## Projects
 
 - **[P-BFM](https://roboparty.github.io/P-BFM/)** — Perceptive behavioral foundation models for terrain-adaptive humanoid control. · [Code](https://github.com/Roboparty/P-BFM)
